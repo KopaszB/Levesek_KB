@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levesek_KB", "Levesek_KB\Levesek_KB.csproj", "{0F8CD084-52E4-45E1-AA8B-E587C4617650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8CD084-52E4-45E1-AA8B-E587C4617650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8CD084-52E4-45E1-AA8B-E587C4617650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8CD084-52E4-45E1-AA8B-E587C4617650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8CD084-52E4-45E1-AA8B-E587C4617650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08625C4D-C7E2-426C-BE31-7CDB0F07EC27}
+	EndGlobalSection
+EndGlobal
